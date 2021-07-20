@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+div{
+    width: 900px;
+    list-style-type: none;
+}
+li{
+    margin-top: 10px;
+}
+input{
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    outline: none;
+    background-color: rgb(199, 217, 218);
+    border: none;
+}
+input:hover{
+    background-color: #fff;
+}
+.imp{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-family: sans-serif;
+}
